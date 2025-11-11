@@ -2,7 +2,7 @@
 
 Hi {name} 👋,
 
-We can't wait to see you in London next week for the NHS-R/NHS.pycom Conference (RPySOC 2025)! On arrival at please present the following QR code at registration (Level 6) to speed up the check-in process.
+We can't wait to see you in London this week for the NHS-R/NHS.pycom Conference (RPySOC 2025)! On arrival at please present the following QR code at registration (Level 6) to speed up the check-in process.
 
 {img_string}
 
@@ -17,7 +17,9 @@ Please may we kindly ask that you record all conference talk related questions v
 By registering for this event ticket, you will qualify for the following:
 
 -   Attendance to the full-day event at Wellcome Trust, London
+
 -   Attendance at the unconference (Friday 14th) at Wellcome Trust, London
+
 -   Food and beverages will be available at the venue.
 
 Please note that all catering provided as part of the conference will be vegan. Please notify us of any specific dietary requirements via [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
@@ -30,9 +32,12 @@ Address: Wellcome Trust, Gibbs Building, 215 Euston Road, London NW1 2BE
 
 The nearest underground stations are:
 
-- Euston Square
+- Euston Sqsuare
+
 - Euston
-- Warren Street 
+
+- Warren Street
+
 - King's Cross St Pancras
 
 Euston Square has step-free access between the platform and street level from the Westbound platform only.
@@ -44,7 +49,9 @@ Find out how to get to us by tube with Transport for [London’s journey planner
 The nearest mainline stations are:
 
 - Euston
+
 - King's Cross
+
 - St Pancras International
 
 #### BUS
@@ -66,6 +73,7 @@ There are also [Santander docking stations](https://tfl.gov.uk/modes/cycling/san
 If you’re using a taxi, there are drop off points by our:
 
 - main visitor entrance at 215 Euston Road (raised kerb)
+
 - staff-only entrance on Gower Place (raised and dropped kerb). It's a short distance from here to our main visitor entrance at the front of the building.
 
 We have two parking spaces for [Blue Badge holders](https://wellcome.org/about-us/contact-us#accessibility). 
